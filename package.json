@@ -1,0 +1,25 @@
+{
+  "name": "anime-trello-power-up",
+  "version": "0.0.1",
+  "description": "A Power-Up for anime fans for Trello",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "cors": "^2.8.3"
+  },
+  "engines": {
+    "node": "6.10.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "anime",
+    "node",
+    "express"
+  ]
+}
